@@ -1,0 +1,459 @@
+* {
+    margin-top: -45;
+    margin-bottom: 69;
+    margin-left: -40;
+    margin-right: 30;
+    padding: 90;
+    /* margin-bottom: -25; */
+}
+
+body {
+    background-color: #123524;
+}
+
+.title {
+    font-size: 35pt;
+    color: #a6c5b8;
+    font-family: asimovsans, sans-serif;
+    font-weight: 400;
+    letter-spacing: 42.9pt;
+}
+
+.design {
+    font-size: 35pt;
+    color: #a6c5b8;
+    letter-spacing: 15pt;
+    bottom: 150;
+    left: 96;
+    position: absolute;
+    line-height: 2;
+    font-family: roboto, sans-serif;
+    font-weight: 100;
+    font-style: normal;
+
+}
+
+.pro1 {
+    font-size: 35pt;
+    color: #ebbb7e;
+    font-family: roboto, sans-serif;
+    font-weight: 100;
+    letter-spacing: 15pt;
+    bottom: -500;
+    left: 96;
+    position: absolute;
+
+}
+
+#socks1 {
+    bottom: -1213.52;
+    left: 100;
+    position: absolute;
+    width: 500;
+    height: 600;
+}
+
+#straw {
+    bottom: -3700;
+    left: 100;
+    position: absolute;
+    width: 900;
+    height: 600;
+}
+
+.storage {
+    bottom: -1370;
+    left: 750;
+    position: absolute;
+}
+
+.gum {
+    bottom: -2100;
+    left: 50;
+    position: absolute;
+}
+
+.lecture {
+    bottom: -2100;
+    left: 750;
+    position: absolute;
+}
+
+.infographic {
+    bottom: -2830;
+    left: 50;
+    position: absolute;
+}
+
+.prop {
+    bottom: -2830;
+    left: 750;
+    position: absolute;
+}
+
+.website {
+    bottom: -3560;
+    left: 50;
+    position: absolute;
+}
+
+.website_text {
+    bottom: -3480;
+    left: 105;
+    position: absolute;
+    font-family: roboto, sans-serif;
+    font-weight: 100;
+    letter-spacing: 15pt;
+    color: #a6c5b8;
+}
+
+.poster {
+    bottom: -4290;
+    left: 50;
+    position: absolute;
+}
+
+.center {
+    bottom: -4305;
+    left: 750;
+    position: absolute;
+}
+
+.center_text {
+    bottom: -4250;
+    left: 843;
+    position: absolute;
+    font-family: roboto, sans-serif;
+    font-weight: 100;
+    letter-spacing: 15pt;
+    color: #a6c5b8;
+
+}
+
+.namaz {
+    bottom: -5035;
+    left: 50;
+    position: absolute;
+}
+
+.back {
+    font-family: asimovsans, sans-serif;
+    font-weight: 100;
+    bottom: -5220;
+    left: 100;
+    position: absolute;
+    letter-spacing: 15pt;
+    font-size: 25pt;
+    color: #a6c5b8;
+
+
+
+
+
+}
+
+.photo_title {
+    color: #a6c5b8;
+    font-family: asimovsans, sans-serif;
+    font-weight: 400;
+    letter-spacing: 15pt;
+    bottom: -5260;
+    left: 100;
+    position: absolute;
+    font-size: 25pt;
+}
+
+.richie {
+    bottom: -6260;
+    left: 750;
+    position: absolute;
+}
+
+.hands {
+    bottom: -6260;
+    left: 50;
+    position: absolute;
+}
+
+.Sb {
+    bottom: -6990;
+    left: 50;
+    position: absolute;
+}
+
+.socks {
+    bottom: -7720;
+    left: 50;
+    position: absolute;
+}
+
+.women {
+    bottom: -7720;
+    left: 750;
+    position: absolute;
+}
+
+.women2 {
+    bottom: -8450;
+    left: 50;
+    position: absolute;
+}
+
+.roullu {
+    bottom: -8450;
+    left: 750;
+    position: absolute;
+}
+
+.sak {
+    bottom: -9180;
+    left: 50;
+    position: absolute;
+
+}
+
+.paani {
+    bottom: -10255;
+    left: 50;
+    position: absolute;
+}
+
+.aleena {
+    bottom: -10255;
+    left: 750;
+    position: absolute;
+}
+
+.octopus {
+    bottom: -10985;
+    left: 50;
+    position: absolute;
+}
+
+.second {
+    color: #a6c5b8;
+    font-family: asimovsans, sans-serif;
+    font-weight: 400;
+    letter-spacing: 15pt;
+    bottom: -9350;
+    left: 100;
+    position: absolute;
+    font-size: 25pt;
+}
+
+.back2 {
+    color: #a6c5b8;
+    font-family: asimovsans, sans-serif;
+    font-weight: 400;
+    letter-spacing: 15pt;
+    bottom: -9400;
+    left: 100;
+    position: absolute;
+    font-size: 25pt;
+}
+
+
+
+
+
+
+
+
+
+
+
+a {
+    font-family: roboto, sans-serif;
+    font-weight: 100;
+    line-height: 2;
+    text-decoration: none;
+    letter-spacing: 15pt;
+    font-size: 25pt;
+
+}
+
+a:link {
+    color: #a6c5b8;
+}
+
+/* visited link */
+a:visited {
+    color: #a6c5b8;
+}
+
+/* mouse over link */
+a:hover {
+    color: #ebbb7e;
+
+
+}
+
+#straw a {
+    font-family: roboto, sans-serif;
+    font-weight: 100;
+    bottom: 170;
+    left: 96;
+    position: absolute;
+    line-height: 2;
+    text-decoration: none;
+    letter-spacing: 15pt;
+}
+
+#straw a:link {
+    color: #a6c5b8;
+}
+
+/* visited link */
+#straw a:visited {
+    color: #a6c5b8;
+}
+
+/* mouse over link */
+#straw a:hover {
+    color: #ebbb7e;
+}
+
+
+
+
+#prayer a {
+    font-family: asimovsans, sans-serif;
+    font-weight: 100;
+    bottom: -5035;
+    left: 50;
+    position: absolute;
+    line-height: 2;
+    text-decoration: none;
+    letter-spacing: 15pt;
+    font-size: 25pt;
+
+}
+
+#prayer a:link {
+    color: #a6c5b8;
+}
+
+/* visited link */
+#prayer a:visited {
+    color: #a6c5b8;
+}
+
+/* mouse over link */
+#prayer a:hover {
+    color: #ebbb7e;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+/* .shape1 {
+    border-radius: 45px;
+    background: #a6c5b8;
+    padding: 20px;
+    width: 200px;
+    height: 150px;
+    bottom: 200;
+    left: 182;
+    position: absolute; */
+
+/* .content{
+    position:absolute;
+    top: 45%;
+    left: 100%;
+    bottom: 50%;
+    transform: translate(-50%, -50%);
+    -ms-transform: translate (-50,-50); */
+
+
+
+/* .content a{
+    font-size: 25pt;
+    color:#1a5a3f;
+    font-family: asimovsans, sans-serif;
+    font-weight: 400;
+    letter-spacing: 20pt;
+    display:inline-block;
+    z-index: 3;
+   
+
+}
+.overlay {
+    opacity: 0
+
+}
+.shape1:hover .overlay{
+    opacity: 1  */
+
+
+
+/* .shape2 {
+    border-radius: 45px;
+    background: #a6c5b8;
+    padding: 20px;
+    width: 200px;
+    height: 150px;
+    bottom: 200;
+    left: 470;
+    position: absolute;
+ }
+ .shape3 {
+    border-radius: 45px;
+    background: #a6c5b8;
+    padding: 20px;
+    width: 200px;
+    height: 150px;
+    bottom: 200;
+    left: 758;
+    position: absolute;
+ }
+ .shape4 {
+    border-radius: 45px;
+    background: #a6c5b8;
+    padding: 20px;
+    width: 200px;
+    height: 150px;
+    bottom: -40;
+    left: 182;
+    position: absolute;
+ }
+ .shape5 {
+    border-radius: 45px;
+    background: #a6c5b8;
+    padding: 20px;
+    width: 200px;
+    height: 150px;
+    bottom: -40;
+    left: 470;
+    position: absolute;
+ }
+ .shape6 {
+    border-radius: 45px;
+    background: #a6c5b8;
+    padding: 20px;
+    width: 200px;
+    height: 150px;
+    bottom: -40;
+    left: 758;
+    position: absolute;
+ } */
+
+
+
+
+
+
+
+
+
+
+
+@media screen and (min-width: 800px) {}
