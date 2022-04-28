@@ -293,6 +293,9 @@ a:hover {
     width: 100%;
     flex-direction: column;
     flex-wrap: wrap;
+    gap: 100px;
+    margin-top: 70px;
+    margin-bottom: 70px;
 }
 .back2 {
     display: flex;
